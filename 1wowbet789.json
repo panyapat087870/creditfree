@@ -1,0 +1,128 @@
+{
+  "type": "flex",
+  "altText": "เเจกเครดิตฟรี รับได้จริง ถอนได้จริง ไม่จกตา !!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/cd9a53cd0d8f1d3bda3aad876f9486e7.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครใหม่รับฟรี 139 บาท !!",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFD700"
+          },
+          {
+            "type": "text",
+            "text": "เครดิตฟรีรับง่ายๆ เพียงสมัครสมาชิกใหม่เเล้วเเจ้ง User สามารถรับได้ทันที ",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "margin": "sm",
+            "color": "#FAFAD2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี ",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "color": "#FFD700"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครสมาชิก",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "color": "#FFD700"
+              }
+            ],
+            "spacing": "sm",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#0000CD"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b837c9a3dc360c7aea901274da3bd1e2.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่น 100% สุดฮอต",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFD700"
+          },
+          {
+            "type": "text",
+            "text": "สมัครสมาชิกใหม่รับโบนัสฟรี ฝากถอนรวดเร็ว ฝากขั้นต่ำเพียง 1 บาท เล่นได้ทุกค่ายเกม",
+            "wrap": true,
+            "align": "center",
+            "size": "sm",
+            "margin": "sm",
+            "color": "#FAFAD2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโบนัสฟรี",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "color": "#FFD700"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับ 159 บาท",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "color": "#FFD700"
+              }
+            ],
+            "spacing": "sm",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#0000CD"
+      }
+    }
+  ]
+}
+}
