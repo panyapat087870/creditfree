@@ -1,0 +1,84 @@
+[{
+  "type": "flex",
+  "altText": "พีคะ!! เว็บนี้เเจกเครดิตฟรี 139 บาท",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/cd9a53cd0d8f1d3bda3aad876f9486e7.png",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจ้งเพียง User รับได้ทันที 139 บาท",
+        "align": "center",
+        "weight": "bold",
+        "size": "md",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกใหม่เราเเจกให้ทันทีไม่ต้องฝากก่อน รับได้จริง ถอนได้จริง สามารถเล่นได้ทุกค่ายเกม",
+        "align": "center",
+        "size": "md",
+        "color": "#FFFFFF",
+        "wrap": true,
+        "margin": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิกรับ 139 บาท",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary",
+        "margin": "md",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "margin": "none",
+            "color": "#FFCC00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ระบบอัตโนมัติ",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "color": "#FFCC00"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "sm"
+      }
+    ],
+    "backgroundColor": "#000080",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#3366FF",
+      "endColor": "#000033",
+      "centerColor": "#0000CC"
+    }
+  }
+}
+}]
