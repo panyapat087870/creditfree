@@ -41,7 +41,7 @@
                 "action": {
                   "type": "uri",
                   "label": "รับเครดิตฟรี ",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://lin.ee/dBs0dmb"
                 },
                 "style": "primary",
                 "color": "#FFD700"
@@ -51,7 +51,7 @@
                 "action": {
                   "type": "uri",
                   "label": "สมัครสมาชิก",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://lin.ee/dBs0dmb"
                 },
                 "style": "primary",
                 "color": "#FFD700"
@@ -100,7 +100,7 @@
                 "action": {
                   "type": "uri",
                   "label": "รับโบนัสฟรี",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://lin.ee/dBs0dmb"
                 },
                 "style": "primary",
                 "color": "#FFD700"
@@ -110,7 +110,7 @@
                 "action": {
                   "type": "uri",
                   "label": "รับ 159 บาท",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://lin.ee/dBs0dmb"
                 },
                 "style": "primary",
                 "color": "#FFD700"
