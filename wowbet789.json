@@ -1,0 +1,85 @@
+[{
+  "type": "flex",
+  "altText": "สมัครเเจ้งยูซเซอร์รับทันที 159 บาท !!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/c8e658a656a8097d0b1be8ada14d473e.png",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "WOWBET789",
+        "weight": "bold",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "wrap": true,
+        "text": "รับมาเเล้วมากกว่า 100,000 USER",
+        "size": "lg",
+        "color": "#00FF00",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกใหม่รับเครดิตฟรี 159 บาท ไม่ต้องฝากก่อน สามารถเล่นได้ทุกค่ายเกม ถอนได้จริง",
+        "align": "center",
+        "wrap": true,
+        "margin": "sm",
+        "color": "#FFFFFF",
+        "size": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิกรับฟรี 159 บาท",
+          "uri": "https://lin.ee/dBs0dmb"
+        },
+        "margin": "lg",
+        "style": "primary",
+        "color": "#FFD700"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก-ถอน",
+              "uri": "https://lin.ee/dBs0dmb"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝ่ายบริการ",
+              "uri": "https://lin.ee/dBs0dmb"
+            },
+            "style": "primary",
+            "color": "#FFD700"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "sm"
+      }
+    ],
+    "backgroundColor": "#0000CC"
+  }
+}
+}]
