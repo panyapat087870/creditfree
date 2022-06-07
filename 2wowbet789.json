@@ -1,13 +1,18 @@
 [{
   "type": "flex",
-  "altText": "พีคะ!! เว็บนี้เเจกเครดิตฟรี 139 บาท",
+  "altText": "You received a message",
   "contents": {
   "type": "bubble",
   "size": "giga",
   "hero": {
     "type": "image",
     "url": "https://www.img.in.th/images/cd9a53cd0d8f1d3bda3aad876f9486e7.png",
-    "size": "full"
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/dBs0dmb"
+    }
   },
   "body": {
     "type": "box",
@@ -35,7 +40,7 @@
         "action": {
           "type": "uri",
           "label": "สมัครสมาชิกรับ 139 บาท",
-          "uri": "http://linecorp.com/"
+          "uri": "https://lin.ee/dBs0dmb"
         },
         "style": "primary",
         "margin": "md",
@@ -50,7 +55,7 @@
             "action": {
               "type": "uri",
               "label": "สมัครสมาชิก",
-              "uri": "http://linecorp.com/"
+              "uri": "https://lin.ee/dBs0dmb"
             },
             "style": "primary",
             "margin": "none",
@@ -61,7 +66,7 @@
             "action": {
               "type": "uri",
               "label": "ระบบอัตโนมัติ",
-              "uri": "http://linecorp.com/"
+              "uri": "https://lin.ee/dBs0dmb"
             },
             "style": "primary",
             "color": "#FFCC00"
